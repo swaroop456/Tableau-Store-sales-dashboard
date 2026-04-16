@@ -11,8 +11,9 @@ The repository demonstrates skills in Tableau dashboarding, data analysis, and B
 - TableauMiniProject_Dashboard.pdf – Exported dashboard summarizing KPIs.  
 - TableauMiniProject_Story.pdf – Narrative visualization highlighting trends and insights.  
 - TableauMiniProject.pdf – Detailed report with charts and explanations.  
-- Store_data.xlsx – Raw dataset for analysis.  
-- README.md – Documentation for the project.  
+- Store_data.xlsx – Raw dataset for analysis.
+- Tableau_Mini_Project_Documentation.Docx - Documentation on this Tableau mini project.
+- README.md – Documentation for the project.
 
 ---
 
